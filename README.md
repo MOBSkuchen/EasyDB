@@ -1,11 +1,7 @@
-# EasyDB
-
 ## About
-### EasyDB is a simple experimental DataBase made in C#.
-### You can use it as a Library in your project,
-### or via the Console using the ConsoleDriver.cs file.
+### EasyDB is a simple, experimental, json-based DataBase made in C# and ported to Python
+#### For the C# Version, there is a console version included (source/ConsoleDriver.cs) 
 ---------
 ## How to use it?
-### When you compile the project using .NET / .NET CORE,
-### you should see a "> " appearing in the console.
-### Type : "help" to see all Commands.
+#### Simply copy the version you want (source (C#) or py-source (Python)) into your project and you're good to go!
+#### If you are using the Console Driver, input "help" to see all commands.
